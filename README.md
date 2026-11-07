@@ -4,8 +4,6 @@ Screens and the prompts used to build the official website of **Vinara Infra LLP
 
 > This repo is a showcase only. **It contains no source code.** The website was built with AI-assisted development (Claude Code) by giving it prompts like the ones below, one step at a time.
 
-**Live site:** https://www.vinara.co.in
-
 **Tech used:** Next.js 15 · React 19 · Tailwind CSS 4 · GSAP · Motion · Lenis smooth scroll · Three.js / React Three Fiber · Neon Postgres · Resend email
 
 ---
@@ -62,7 +60,7 @@ Screens and the prompts used to build the official website of **Vinara Infra LLP
 ## Other features (prompts)
 
 - **Admin panel:** "Add an admin panel to manage gallery photos, projects, partners and leadership content without touching code."
-- **Careers and quotes:** "Send job applications and quote enquiries by email with Resend to info@vinara.co.in."
+- **Careers and quotes:** "Send job applications and quote enquiries by email with Resend to the company inbox."
 - **Mobile:** "Fix the mobile menu and keep the navigation actions visible on small screens."
 - **Branding:** "Replace the default favicon with the Vinara logo mark."
 
